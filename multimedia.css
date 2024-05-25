@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: azure;
+    border: 2cap;
+}
+img{
+    width: 600px;
+    height:600px;
+}
+h1{
+    color: blue
+}
+h2{
+    color: red;
+}

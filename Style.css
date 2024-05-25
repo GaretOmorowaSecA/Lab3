@@ -1,0 +1,21 @@
+h1{
+    color:blue;
+    text-align: center;
+}
+caption{
+    
+    color:red
+}
+table{
+    width:100%;
+}
+th,td{
+    border:3px solid black;
+    padding:5px;
+    text-align:left;
+    color:black;
+    text-align: center;
+}
+nav{
+    border: 1px solid black;
+}
